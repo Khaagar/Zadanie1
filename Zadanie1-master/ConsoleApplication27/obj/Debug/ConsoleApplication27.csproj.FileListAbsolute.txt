@@ -1,0 +1,12 @@
+c:\users\piotrek\documents\visual studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe.config
+c:\users\piotrek\documents\visual studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\bin\Debug\ConsoleApplication27.pdb
+c:\users\piotrek\documents\visual studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.csprojResolveAssemblyReference.cache
+c:\users\piotrek\documents\visual studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\ConsoleApplication27\ConsoleApplication27\obj\Debug\ConsoleApplication27.pdb
+C:\Users\Server\Documents\Visual Studio 2015\Zadanie1-master\Zadanie1-master\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe.config
+C:\Users\Server\Documents\Visual Studio 2015\Zadanie1-master\Zadanie1-master\ConsoleApplication27\obj\Debug\ConsoleApplication27.exe
+C:\Users\Server\Documents\Visual Studio 2015\Zadanie1-master\Zadanie1-master\ConsoleApplication27\obj\Debug\ConsoleApplication27.pdb
+C:\Users\Server\Documents\Visual Studio 2015\Zadanie1-master\Zadanie1-master\ConsoleApplication27\bin\Debug\ConsoleApplication27.exe
+C:\Users\Server\Documents\Visual Studio 2015\Zadanie1-master\Zadanie1-master\ConsoleApplication27\bin\Debug\ConsoleApplication27.pdb
+C:\Users\Server\Documents\Visual Studio 2015\Zadanie1-master\Zadanie1-master\ConsoleApplication27\obj\Debug\ConsoleApplication27.csprojResolveAssemblyReference.cache
