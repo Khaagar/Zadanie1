@@ -72,7 +72,7 @@ namespace ConsoleApplication27
             b.NormalFun();
             b.VirtualFun();
             c.VirtualFun();
-            d.VirtualFun2();
+            c.VirtualFun2();
             d.VirtualFun2();
             d.VirtualFun();
 
